@@ -2,7 +2,7 @@
 Simple and limit use of [yt-dlp](https://github.com/yt-dlp/yt-dlp) with Non Command UI in Windows.
 ## How to use
 - .exe
-  Directly execute the file and follow the hint.
+  - Directly execute the file and follow the hint.
 - .py
   - Install following package in your Python environment.
     ```
