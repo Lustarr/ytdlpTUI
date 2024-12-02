@@ -6,7 +6,7 @@ Simple and limit use of [yt-dlp](https://github.com/yt-dlp/yt-dlp) with Non Comm
 - .py
   - Install following package in your Python environment.
     ```
-    pip install yt-dlp
+    pip install yt_dlp
     pip install requests
     ```
   - Download Windows builds of FFmpeg from [official site](https://www.ffmpeg.org/) or [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds).
