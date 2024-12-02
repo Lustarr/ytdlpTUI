@@ -1,5 +1,6 @@
 # yt-dlp-ncui
 Simple and limit use of [yt-dlp](https://github.com/yt-dlp/yt-dlp) with Non Command UI in Windows.
+The target file format is .mp4.
 ## How to use
 - .exe
   - Download the file from [releases](https://github.com/Lustarr/yt-dlp-ncui/releases). Execute it and follow the hint.
