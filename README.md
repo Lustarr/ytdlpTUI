@@ -1,4 +1,4 @@
-# yt-dlp-ncui
+# ytdlpCLI
 Simple and limit use of [yt-dlp](https://github.com/yt-dlp/yt-dlp) with Command Line Interface in Windows.
 
 The target file format is .mp4.
